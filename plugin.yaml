@@ -1,17 +1,16 @@
 # Required items.
-game: "TODO"
-api: TODO
-steamID: TODO
-uid: TODO
-author: TODO
-packageName: TODO
+game: Doom Eternal
+api: 1
+steamID: 782330
+uid: com.thegreatcabbage.doometernal
+author: TheGreatCabbage
+packageName: doometernal
 features:
-  - TODO
+  - keymaps
 
 # Optional items.
-graphicsConfig: TODO
-keymapConfig: TODO
-savesFolder: TODO
-gameDirectory: "TODO"
+keymapConfig: C:\Users\$!USERNAME!$\Saved Games\id Software\DOOMEternal\base\DOOMEternalConfig.cfg
+
+gameDirectory: DOOMEternal
 verificationPaths:
-  - TODO
+  - DOOMEternalx64vk.exe
