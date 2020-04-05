@@ -1,16 +1,16 @@
 # Required items.
-game: Doom Eternal
+game: Doom
 api: 1
-steamID: 782330
-uid: com.thegreatcabbage.doometernal
+steamID: 379720
+uid: com.thegreatcabbage.doom
 author: TheGreatCabbage
-packageName: doometernal
+packageName: doom
 features:
   - keymaps
 
 # Optional items.
-keymapConfig: C:\Users\$!USERNAME!$\Saved Games\id Software\DOOMEternal\base\DOOMEternalConfig.cfg
+keymapConfig: C:\Users\$!USERNAME!$\Saved Games\id Software\DOOM\base\DOOMConfig.cfg
 
-gameDirectory: DOOMEternal
+gameDirectory: DOOM
 verificationPaths:
-  - DOOMEternalx64vk.exe
+  - DOOMx64.exe
